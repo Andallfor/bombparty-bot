@@ -1,0 +1,904 @@
+1677030036843	geckodriver	INFO	Listening on 127.0.0.1:63552
+1677030039902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63553" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilefKUeqw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030040192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030040197	Marionette	INFO	Listening on port 63560
+WebDriver BiDi listening on ws://127.0.0.1:63553
+1677030040466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilefKUeqw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63553/devtools/browser/ddb18c25-fbf8-4a09-b462-cfbb57f2016f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://monkeytype.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://monkeytype.com."
+1677030124150	geckodriver	INFO	Listening on 127.0.0.1:63672
+1677030127213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63673" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiledCX54n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030127591	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030127596	Marionette	INFO	Listening on port 63679
+WebDriver BiDi listening on ws://127.0.0.1:63673
+1677030127914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiledCX54n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63673/devtools/browser/85766698-efdc-4212-9fc6-8b68076afe47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+[GFX1-]: Managed to allocate after flush.
+1677030161176	Marionette	INFO	Stopped listening on port 63679
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677030229194	geckodriver	INFO	Listening on 127.0.0.1:63768
+1677030232251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63769" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileDgyz0z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030232736	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030232746	Marionette	INFO	Listening on port 63774
+WebDriver BiDi listening on ws://127.0.0.1:63769
+1677030232947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileDgyz0z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63769/devtools/browser/737d27da-00bc-48df-87fc-0b2759cd0828
+1677030277745	geckodriver	INFO	Listening on 127.0.0.1:63821
+1677030280813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63822" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileJSDXs9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030281121	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030281125	Marionette	INFO	Listening on port 63829
+WebDriver BiDi listening on ws://127.0.0.1:63822
+1677030281408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileJSDXs9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63822/devtools/browser/c8a5ce8c-617b-47a9-9397-03f0ecb218fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677030331079	Marionette	INFO	Stopped listening on port 63829
+Dynamically enable window occlusion 1
+1677030427093	geckodriver	INFO	Listening on 127.0.0.1:63898
+1677030430165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63899" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilenRvfBQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030430522	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030430527	Marionette	INFO	Listening on port 63905
+WebDriver BiDi listening on ws://127.0.0.1:63899
+1677030430853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilenRvfBQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63899/devtools/browser/d2cdb2ce-ab57-49ed-971e-398a3b1e29a6
+1677030439417	Marionette	INFO	Stopped listening on port 63905
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677030463207	geckodriver	INFO	Listening on 127.0.0.1:63954
+1677030466267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63955" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile93PN2q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030466567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030466572	Marionette	INFO	Listening on port 63962
+WebDriver BiDi listening on ws://127.0.0.1:63955
+1677030466854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile93PN2q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63955/devtools/browser/059fb831-d00c-4508-aa9a-acac49dffff7
+1677030538241	geckodriver	INFO	Listening on 127.0.0.1:64041
+1677030541304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64042" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileKLbsJM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030541567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030541571	Marionette	INFO	Listening on port 64049
+WebDriver BiDi listening on ws://127.0.0.1:64042
+1677030541981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileKLbsJM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64042/devtools/browser/eb10fd86-d6ec-4c19-9c46-7d2fb2e2c5c6
+1677030620780	geckodriver	INFO	Listening on 127.0.0.1:64118
+1677030623849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64119" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileczey9O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030624101	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030624105	Marionette	INFO	Listening on port 64126
+WebDriver BiDi listening on ws://127.0.0.1:64119
+1677030624500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileczey9O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64119/devtools/browser/33101d2b-fcfb-4f05-ad7e-18acfaf3bffa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+1677030644745	geckodriver	INFO	Listening on 127.0.0.1:64176
+1677030647824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64177" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile9nlm8V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030648119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030648123	Marionette	INFO	Listening on port 64183
+WebDriver BiDi listening on ws://127.0.0.1:64177
+1677030648436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile9nlm8V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64177/devtools/browser/e08427a9-f857-472e-87fa-cb75773d5db5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677030669499	Marionette	INFO	Stopped listening on port 64183
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677030695969	geckodriver	INFO	Listening on 127.0.0.1:64238
+1677030699035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64239" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilezcz0GO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030699365	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030699370	Marionette	INFO	Listening on port 64246
+WebDriver BiDi listening on ws://127.0.0.1:64239
+1677030699666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilezcz0GO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64239/devtools/browser/d64deba9-5903-46ec-aab6-d2f15ba74ef6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1677030728817	Marionette	INFO	Stopped listening on port 64246
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677030734901	geckodriver	INFO	Listening on 127.0.0.1:64302
+1677030737960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64303" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileRYZ7Un"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030738259	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030738265	Marionette	INFO	Listening on port 64310
+WebDriver BiDi listening on ws://127.0.0.1:64303
+1677030738548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileRYZ7Un\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64303/devtools/browser/4bcf0083-e8c4-4622-bf15-394db0800496
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677030796653	Marionette	INFO	Stopped listening on port 64310
+Dynamically enable window occlusion 1
+1677030815356	geckodriver	INFO	Listening on 127.0.0.1:64382
+1677030818421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64383" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiler3WH6V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030818718	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030818722	Marionette	INFO	Listening on port 64390
+WebDriver BiDi listening on ws://127.0.0.1:64383
+1677030819008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiler3WH6V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64383/devtools/browser/e8a62212-64f7-4cdd-9870-eb7e7f6c0ee8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+1677030843439	geckodriver	INFO	Listening on 127.0.0.1:49649
+1677030846493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49650" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiledZeFBf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030846793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030846798	Marionette	INFO	Listening on port 49657
+WebDriver BiDi listening on ws://127.0.0.1:49650
+1677030847077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiledZeFBf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49650/devtools/browser/28ec976b-4b08-44ea-a505-0ffd36c42e21
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677030940664	geckodriver	INFO	Listening on 127.0.0.1:49736
+1677030943723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49737" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileevtL3c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030943992	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030943996	Marionette	INFO	Listening on port 49744
+WebDriver BiDi listening on ws://127.0.0.1:49737
+1677030944408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileevtL3c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49737/devtools/browser/54f6ba57-31f3-4f50-a785-52ae18d75709
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677030966595	Marionette	INFO	Stopped listening on port 49744
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677030984692	geckodriver	INFO	Listening on 127.0.0.1:49800
+1677030987739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49801" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile5vXqvN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677030988072	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677030988078	Marionette	INFO	Listening on port 49808
+WebDriver BiDi listening on ws://127.0.0.1:49801
+1677030988381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile5vXqvN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49801/devtools/browser/cc6062f0-fd75-4813-8414-3997175c88b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677031006848	Marionette	INFO	Stopped listening on port 49808
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677031019290	geckodriver	INFO	Listening on 127.0.0.1:49860
+1677031022355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49861" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileT5Do5D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677031022662	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677031022666	Marionette	INFO	Listening on port 49868
+WebDriver BiDi listening on ws://127.0.0.1:49861
+1677031023013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileT5Do5D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49861/devtools/browser/71af8e3f-664b-42d2-8296-cf4f9693109a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677031088676	Marionette	INFO	Stopped listening on port 49868
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677031166109	geckodriver	INFO	Listening on 127.0.0.1:49984
+1677031169164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49985" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileHSWlg2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677031169505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677031169511	Marionette	INFO	Listening on port 49992
+WebDriver BiDi listening on ws://127.0.0.1:49985
+1677031169815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileHSWlg2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49985/devtools/browser/bfc35454-3541-4c82-bccf-3f9b341472b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677031192064	Marionette	INFO	Stopped listening on port 49992
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677031200549	geckodriver	INFO	Listening on 127.0.0.1:50047
+1677031203601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50048" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilekKIKS6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677031203952	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677031203958	Marionette	INFO	Listening on port 50053
+WebDriver BiDi listening on ws://127.0.0.1:50048
+1677031204285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilekKIKS6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50048/devtools/browser/34e4ba0d-5236-407b-b641-73099e530149
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677031322722	geckodriver	INFO	Listening on 127.0.0.1:50117
+1677031325794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50118" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilemWodvz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677031326060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677031326063	Marionette	INFO	Listening on port 50125
+WebDriver BiDi listening on ws://127.0.0.1:50118
+1677031326501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilemWodvz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50118/devtools/browser/29ede7ee-6e1d-4943-b5ac-7cafa9ab3d5d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+1677031358634	Marionette	INFO	Stopped listening on port 50125
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677031401990	geckodriver	INFO	Listening on 127.0.0.1:51705
+1677031405047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51706" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilekUcLQP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677031405296	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677031405300	Marionette	INFO	Listening on port 51713
+WebDriver BiDi listening on ws://127.0.0.1:51706
+1677031405722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilekUcLQP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51706/devtools/browser/0c49d09b-371a-4a1b-9385-a221b62e3b3b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677031914102	Marionette	INFO	Stopped listening on port 51713
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677031982506	geckodriver	INFO	Listening on 127.0.0.1:61923
+1677031985548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61924" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileWcFUSQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677031985823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677031985827	Marionette	INFO	Listening on port 61931
+WebDriver BiDi listening on ws://127.0.0.1:61924
+1677031986104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileWcFUSQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61924/devtools/browser/dc77956c-da7d-4c07-93d0-6105c5143fd4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677032019127	Marionette	INFO	Stopped listening on port 61931
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677032032976	geckodriver	INFO	Listening on 127.0.0.1:61998
+1677032047752	geckodriver	INFO	Listening on 127.0.0.1:62008
+1677032050821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62009" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilektKCia"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677032051088	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677032051092	Marionette	INFO	Listening on port 62016
+WebDriver BiDi listening on ws://127.0.0.1:62009
+1677032051417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilektKCia\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62009/devtools/browser/4a7f49a0-46d3-49b4-bfe2-297bc33898a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677032200995	Marionette	INFO	Stopped listening on port 62016
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677032219181	geckodriver	INFO	Listening on 127.0.0.1:62076
+1677032222225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62077" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileBuszMo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677032222486	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677032222489	Marionette	INFO	Listening on port 62084
+WebDriver BiDi listening on ws://127.0.0.1:62077
+1677032222909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileBuszMo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62077/devtools/browser/0efa6d21-df40-4fff-be27-b85f7fd055b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677032713385	Marionette	INFO	Stopped listening on port 62084
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677033614437	geckodriver	INFO	Listening on 127.0.0.1:54850
+1677033617497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54851" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilew7XgYI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677033617742	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677033617746	Marionette	INFO	Listening on port 54857
+WebDriver BiDi listening on ws://127.0.0.1:54851
+1677033618158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilew7XgYI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54851/devtools/browser/126cf2fb-a1ca-42fd-801b-b163b6ac1cef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677033651154	Marionette	INFO	Stopped listening on port 54857
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677033696686	geckodriver	INFO	Listening on 127.0.0.1:54919
+1677033699762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54920" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileCj2wT6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677033700036	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677033700040	Marionette	INFO	Listening on port 54943
+WebDriver BiDi listening on ws://127.0.0.1:54920
+1677033700340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileCj2wT6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54920/devtools/browser/5892e1e5-c8e5-48da-8fb0-2cea1289fc62
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677033760708	Marionette	INFO	Stopped listening on port 54943
+Dynamically enable window occlusion 1
+1677034105768	geckodriver	INFO	Listening on 127.0.0.1:55209
+1677034108846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55210" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileT4jmNt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034109104	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034109109	Marionette	INFO	Listening on port 55215
+WebDriver BiDi listening on ws://127.0.0.1:55210
+1677034109427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileT4jmNt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55210/devtools/browser/2f95da1d-f213-4bfa-814c-87ee6103874e
+1677034122038	geckodriver	INFO	Listening on 127.0.0.1:55262
+1677034125100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55263" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileLh7DnC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034125348	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034125352	Marionette	INFO	Listening on port 55270
+WebDriver BiDi listening on ws://127.0.0.1:55263
+1677034125742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileLh7DnC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55263/devtools/browser/c9e4de2b-37b1-4af4-b7cf-262e3680344f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://falcon.jklm.fun."
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:297:29
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:297:29\n"
+1677034160691	Marionette	INFO	Stopped listening on port 55270
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677034169759	geckodriver	INFO	Listening on 127.0.0.1:55329
+1677034172817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55330" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile6kdSAT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034173135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034173140	Marionette	INFO	Listening on port 55337
+WebDriver BiDi listening on ws://127.0.0.1:55330
+1677034173419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile6kdSAT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55330/devtools/browser/30dea804-ba9f-4c20-b7c6-638b1c150e35
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677034263209	Marionette	INFO	Stopped listening on port 55337
+Dynamically enable window occlusion 1
+1677034306266	geckodriver	INFO	Listening on 127.0.0.1:55413
+1677034309328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55414" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile2rBe3e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034309622	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034309627	Marionette	INFO	Listening on port 55421
+WebDriver BiDi listening on ws://127.0.0.1:55414
+1677034309915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile2rBe3e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55414/devtools/browser/46aaee1c-90ea-4a89-8cd9-63b1ced043e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677034327445	Marionette	INFO	Stopped listening on port 55421
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677034343107	geckodriver	INFO	Listening on 127.0.0.1:55475
+1677034346176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55476" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileXJteOA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034346496	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034346502	Marionette	INFO	Listening on port 55484
+WebDriver BiDi listening on ws://127.0.0.1:55476
+1677034346801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileXJteOA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55476/devtools/browser/f873f6c5-83e7-4401-9732-d547c36dd689
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677034426638	geckodriver	INFO	Listening on 127.0.0.1:55544
+1677034429705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55545" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileoR85Hc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034430077	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034430085	Marionette	INFO	Listening on port 55552
+WebDriver BiDi listening on ws://127.0.0.1:55545
+1677034430394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileoR85Hc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55545/devtools/browser/185843b8-b34b-4476-a0ce-e8cf2606558b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677034499452	Marionette	INFO	Stopped listening on port 55552
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677034610798	geckodriver	INFO	Listening on 127.0.0.1:60230
+1677034613866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60231" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilehnUAnG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034614184	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034614188	Marionette	INFO	Listening on port 60238
+WebDriver BiDi listening on ws://127.0.0.1:60231
+1677034614463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilehnUAnG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60231/devtools/browser/9d4aabd4-e71d-4545-bc89-6f9de1952357
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677034660812	Marionette	INFO	Stopped listening on port 60238
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677034718757	geckodriver	INFO	Listening on 127.0.0.1:60302
+1677034721827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60303" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileTqvOjF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034722131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034722136	Marionette	INFO	Listening on port 60310
+WebDriver BiDi listening on ws://127.0.0.1:60303
+1677034722431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileTqvOjF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60303/devtools/browser/2ee4881b-5c41-4285-b109-923c2e1c044d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677034758600	Marionette	INFO	Stopped listening on port 60310
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677034819728	geckodriver	INFO	Listening on 127.0.0.1:60389
+1677034822797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60390" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileY5bjdA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034823093	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034823098	Marionette	INFO	Listening on port 60397
+WebDriver BiDi listening on ws://127.0.0.1:60390
+1677034823983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileY5bjdA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60390/devtools/browser/517a9079-be3b-49bb-aee0-10e16a5a3062
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677034881684	Marionette	INFO	Stopped listening on port 60397
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677034932428	geckodriver	INFO	Listening on 127.0.0.1:60448
+1677034935488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60449" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileT3djNJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677034935733	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677034935737	Marionette	INFO	Listening on port 60456
+WebDriver BiDi listening on ws://127.0.0.1:60449
+1677034937637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileT3djNJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60449/devtools/browser/a33f5a2c-ae77-4cc7-a074-08dc211ec436
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677035034493	Marionette	INFO	Stopped listening on port 60456
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677035070225	geckodriver	INFO	Listening on 127.0.0.1:60523
+1677035073248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60524" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile1JQlHo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677035073511	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677035073515	Marionette	INFO	Listening on port 60531
+WebDriver BiDi listening on ws://127.0.0.1:60524
+1677035074267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofile1JQlHo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60524/devtools/browser/d3c86bbf-2d0d-4f1b-9695-d396bf41ffee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677035282587	Marionette	INFO	Stopped listening on port 60531
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677035389582	geckodriver	INFO	Listening on 127.0.0.1:65236
+1677035392651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65237" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilesM0gIy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677035392920	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677035392925	Marionette	INFO	Listening on port 65244
+WebDriver BiDi listening on ws://127.0.0.1:65237
+1677035393774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilesM0gIy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65237/devtools/browser/2751993b-a7d5-4e73-9d32-2b037d875517
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+[GFX1-]: Managed to allocate after flush.
+1677036060241	Marionette	INFO	Stopped listening on port 65244
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677037048569	geckodriver	INFO	Listening on 127.0.0.1:55506
+1677037051631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55507" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilehXGOAQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677037051906	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677037051911	Marionette	INFO	Listening on port 55515
+WebDriver BiDi listening on ws://127.0.0.1:55507
+1677037052774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilehXGOAQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55507/devtools/browser/e5aa06de-a28c-4404-9da9-64751ab38bf4
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+1677037105199	Marionette	INFO	Stopped listening on port 55515
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677037114584	geckodriver	INFO	Listening on 127.0.0.1:55566
+1677037117628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55567" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileintzoY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677037117910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677037117914	Marionette	INFO	Listening on port 55574
+WebDriver BiDi listening on ws://127.0.0.1:55567
+1677037118866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileintzoY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55567/devtools/browser/b1eca0df-3a6c-4924-b08d-8c7dd85c9006
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677037275593	Marionette	INFO	Stopped listening on port 55574
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677037331166	geckodriver	INFO	Listening on 127.0.0.1:55643
+1677037334228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55644" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileYfmpvn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677037334487	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677037334491	Marionette	INFO	Listening on port 55652
+WebDriver BiDi listening on ws://127.0.0.1:55644
+1677037335574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileYfmpvn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55644/devtools/browser/624090ca-df61-4dd6-bf9c-e7162502d91d
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677037391051	Marionette	INFO	Stopped listening on port 55652
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677037424225	geckodriver	INFO	Listening on 127.0.0.1:63965
+1677037427304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63966" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiles18MNV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677037427578	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677037427582	Marionette	INFO	Listening on port 63973
+WebDriver BiDi listening on ws://127.0.0.1:63966
+1677037428403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofiles18MNV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63966/devtools/browser/8c93ed69-49cd-4559-ba75-f086a2ada956
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+1677038383598	geckodriver	INFO	Listening on 127.0.0.1:64175
+1677038386658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64176" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilegWAKxM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677038387016	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677038387022	Marionette	INFO	Listening on port 64188
+WebDriver BiDi listening on ws://127.0.0.1:64176
+1677038389150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilegWAKxM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64176/devtools/browser/29ada5d8-3ba0-466d-940e-5c7e2ef3d723
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677038834621	Marionette	INFO	Stopped listening on port 64188
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677039560028	geckodriver	INFO	Listening on 127.0.0.1:60516
+1677039563086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60517" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilev5J19B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677039563473	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677039563478	Marionette	INFO	Listening on port 60527
+WebDriver BiDi listening on ws://127.0.0.1:60517
+1677039564519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilev5J19B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60517/devtools/browser/604766eb-e942-45ae-93aa-4864d4d132fe
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677039934841	Marionette	INFO	Stopped listening on port 60527
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677040109798	geckodriver	INFO	Listening on 127.0.0.1:60704
+1677040112856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60705" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilex1SENo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677040113244	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677040113249	Marionette	INFO	Listening on port 60712
+WebDriver BiDi listening on ws://127.0.0.1:60705
+1677040115290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilex1SENo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60705/devtools/browser/d6b3c271-f6c7-47dd-9139-a52d1b450488
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677040233329	Marionette	INFO	Stopped listening on port 60712
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677040312710	geckodriver	INFO	Listening on 127.0.0.1:49681
+1677040315765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49682" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilek4O2EQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677040316045	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677040316049	Marionette	INFO	Listening on port 49689
+WebDriver BiDi listening on ws://127.0.0.1:49682
+1677040317002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilek4O2EQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49682/devtools/browser/8a6e54a3-90c4-4e4d-a950-c3efdfe282a1
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677040457557	Marionette	INFO	Stopped listening on port 49689
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677088730276	geckodriver	INFO	Listening on 127.0.0.1:61831
+1677088733322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61832" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileLcUx5w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677088733927	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677088733932	Marionette	INFO	Listening on port 61843
+WebDriver BiDi listening on ws://127.0.0.1:61832
+1677088735752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileLcUx5w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61832/devtools/browser/bb40bde2-7cfa-4834-8f74-f1bfc0cbf6c9
+1677088857381	geckodriver	INFO	Listening on 127.0.0.1:54043
+1677088860457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54044" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileIANZPT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677088860794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677088860798	Marionette	INFO	Listening on port 54052
+WebDriver BiDi listening on ws://127.0.0.1:54044
+1677088861611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileIANZPT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54044/devtools/browser/32bfcb52-b39f-408c-93b1-b0df0bef4a4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677089462791	Marionette	INFO	Stopped listening on port 54052
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677096504831	geckodriver	INFO	Listening on 127.0.0.1:63015
+1677096507909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63016" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileJxTyaK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677096508356	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677096508361	Marionette	INFO	Listening on port 63024
+WebDriver BiDi listening on ws://127.0.0.1:63016
+1677096508824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677103197080	geckodriver	INFO	Listening on 127.0.0.1:60299
+1677103200138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60300" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileKZtJWU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677103200556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677103200562	Marionette	INFO	Listening on port 60310
+WebDriver BiDi listening on ws://127.0.0.1:60300
+1677103200913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileKZtJWU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60300/devtools/browser/b068476a-bd71-4db1-a439-32513cdbb6ae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677103455053	Marionette	INFO	Stopped listening on port 60310
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677103459816	geckodriver	INFO	Listening on 127.0.0.1:62264
+1677103462901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62265" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileAdD0XE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677103463193	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677103463197	Marionette	INFO	Listening on port 62272
+WebDriver BiDi listening on ws://127.0.0.1:62265
+1677103465114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofileAdD0XE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62265/devtools/browser/9654e2fe-0221-4b07-8a8d-2353d5cc429e
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1677103990313	Marionette	INFO	Stopped listening on port 62272
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1677161953545	geckodriver	INFO	Listening on 127.0.0.1:50467
+1677161956587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50468" "-no-remote" "-profile" "C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilelx3utO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677161956950	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677161956956	Marionette	INFO	Listening on port 59103
+WebDriver BiDi listening on ws://127.0.0.1:50468
+1677161957325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\leozw\\AppData\\Local\\Temp\\rust_mozprofilelx3utO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50468/devtools/browser/e3c8294a-ee3e-4cf9-9700-baa8e302f17a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://jklm.fun."
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
